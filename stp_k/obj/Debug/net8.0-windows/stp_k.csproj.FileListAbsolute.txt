@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\stp_k\stp_k\bin\Debug\net8.0-windows\stp_k.exe
+C:\Users\maria\source\repos\stp_k\stp_k\bin\Debug\net8.0-windows\stp_k.deps.json
+C:\Users\maria\source\repos\stp_k\stp_k\bin\Debug\net8.0-windows\stp_k.runtimeconfig.json
+C:\Users\maria\source\repos\stp_k\stp_k\bin\Debug\net8.0-windows\stp_k.dll
+C:\Users\maria\source\repos\stp_k\stp_k\bin\Debug\net8.0-windows\stp_k.pdb
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.AssemblyInfo.cs
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.dll
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\refint\stp_k.dll
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.pdb
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\stp_k.genruntimeconfig.cache
+C:\Users\maria\source\repos\stp_k\stp_k\obj\Debug\net8.0-windows\ref\stp_k.dll
